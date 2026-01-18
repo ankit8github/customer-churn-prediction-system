@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+.DS_Store
+.env
+
+# data
+/data/raw/
+/data/processed/
+/model_artifacts/
+
+# notebooks
+notebooks/.ipynb_checkpoints/
+
+# build
+build/
+dist/
+*.egg-info/
