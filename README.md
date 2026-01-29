@@ -101,13 +101,6 @@ uvicorn app.main:app --reload
 * Production-ready inference pipelines
 * API-first ML deployment
 
-## 🔮 Future Work
-
-* Model monitoring & drift detection
-* Automated retraining
-* SHAP explainability
-* Authentication & rate limiting
-
 ## 👤 Author
 
 **Ankit Kashyap**
